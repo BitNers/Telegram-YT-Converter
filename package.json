@@ -1,0 +1,18 @@
+{
+  "name": "YoutubeConvert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BitNers",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "node-telegram-bot-api": "^0.53.0",
+    "nodemon": "^2.0.7",
+    "youtube-dl-exec": "^1.2.3"
+  }
+}
